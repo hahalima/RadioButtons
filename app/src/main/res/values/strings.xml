@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RadioButtons</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Show_Choice_Button">Show Choice</string>
+    <string name="decision"></string>
+    <string name="positive_choice">Yes</string>
+    <string name="negative_choice">No</string>
+    <string name="maybe_choice">Maybe</string>
+</resources>
